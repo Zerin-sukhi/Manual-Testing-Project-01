@@ -1,1 +1,2 @@
 # Manual-Testing-Project-01
+This is about the testing part of student association of green university of bangladesh website. We know that, Manual testing is an important part of Software quality assurance system. This is a web based projects manual testing,where we find the test plan,test cases, test scenario, test matrics etc with elaborate. Here i do every possibilities of errors that occur in this website.
